@@ -2,7 +2,6 @@
 
 - 🖥️ Sou Técnico em Informática 
 - 📚 Aperfeiçoando e complementando o que aprendi durante o curso técnico
-- 💼 [Meu Linkedin](https://www.linkedin.com/in/andrey-prado-de-oliveira-4a6697227/)
 - 📧 Email para contato: andreyprado05@gmail.com
 
 <div align="center">
@@ -30,7 +29,6 @@
   ##
  
 <div> 
-  <a href = "mailto:andreyprado05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrey-prado-de-oliveira-4a6697227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
