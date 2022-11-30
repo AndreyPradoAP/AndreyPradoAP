@@ -1,4 +1,4 @@
-### Olá! Me chamo Andrey Prado
+### 👋 Olá! Me chamo Andrey Prado
 
 - 🖥️ Sou Técnico em Informática 
 - 📚 Aperfeiçoando e complementando o que aprendi durante o curso técnico
