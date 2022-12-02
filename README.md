@@ -2,6 +2,7 @@
 
 - 🖥️ Sou Técnico em Informática 
 - 📚 Aperfeiçoando e complementando o que aprendi durante o curso técnico
+- 💭 A curiosidade matou o gato para torna-lo um sábio
 - 📧 Email para contato: andreyprado05@gmail.com
 
 <div align="center">
