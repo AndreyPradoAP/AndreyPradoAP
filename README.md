@@ -1,7 +1,7 @@
 ## 👋 Olá! Me chamo Andrey Prado
 
 - 🖥️ Sou Técnico em Informática 
-- 📚 Aperfeiçoando e complementando o que aprendi durante o curso técnico
+- 📚 Atualmente curso Bacharelado em Ciência e Tecnologia (Foco em Engenharia da Computação) na instituição UNIFESP.
 - 💭 A curiosidade matou o gato para torna-lo um sábio
 - 📧 Email para contato: andreyprado05@gmail.com
 
