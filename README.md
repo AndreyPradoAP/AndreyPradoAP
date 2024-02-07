@@ -2,7 +2,6 @@
 
 - 🖥️ Sou Técnico em Informática 
 - 📚 Atualmente curso Bacharelado em Ciência e Tecnologia (Foco em Engenharia da Computação) na instituição UNIFESP.
-- 💭 A curiosidade matou o gato para torna-lo um sábio
 - 📧 Email para contato: andreyprado05@gmail.com
 
 <div align="center">
