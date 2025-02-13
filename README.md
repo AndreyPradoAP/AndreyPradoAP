@@ -1,7 +1,8 @@
 ## 👋 Olá! Me chamo Andrey Prado
 
-- 🖥️ Sou Técnico em Informática 
-- 📚 Atualmente curso Bacharelado em Ciência e Tecnologia (Foco em Engenharia da Computação) na instituição UNIFESP.
+- 🖥️ Formado em Técnico em Informática 
+- 📚 Cursando Bacharelado em Ciência e Tecnologia (Foco em Engenharia da Computação) na instituição UNIFESP
+- 💼 Trabalho como Técnico em Telecom na empresa iez! Telecom
 - 📧 Email para contato: andreyprado05@gmail.com
 
 <div align="center">
