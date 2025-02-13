@@ -2,7 +2,7 @@
 
 - 🖥️ Formado em Técnico em Informática 
 - 📚 Cursando Bacharelado em Ciência e Tecnologia (Foco em Engenharia da Computação) na instituição UNIFESP
-- 💼 Trabalho como Técnico em Telecom na empresa iez! Telecom
+- 💼 Trabalho como Técnico em Telecom na empresa [iez! Telecom](https://www.iez.com.br/)
 - 📧 Email para contato: andreyprado05@gmail.com
 
 <div align="center">
